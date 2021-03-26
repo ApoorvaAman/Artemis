@@ -1,3 +1,3 @@
 export = () => {
-  console.log('Hori is ready!')
+  console.log('Artemis is ready!')
 }
